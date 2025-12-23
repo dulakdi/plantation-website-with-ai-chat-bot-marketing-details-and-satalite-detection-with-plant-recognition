@@ -1,0 +1,25 @@
+{
+  "name": "Plantation Management System",
+  "short_name": "Plantation",
+  "description": "Comprehensive agricultural management system for farmers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFFF8",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
