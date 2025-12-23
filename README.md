@@ -3,11 +3,41 @@
 AI-assisted farm management with FastAPI, static React frontend, and Gemini-powered disease detection/chatbot. Includes weather, market prices, and offline-friendly fallbacks.
 
 ## Screenshots
+
+### 🏠 Home Dashboard
+Overview of farm statistics, crops, weather insights, and quick actions.
+
 ![Home dashboard](pic%20of%20project/frontpage.png)
+
+---
+
+### 🤖 AI Agriculture Chatbot
+Gemini-powered chatbot that answers farming questions and provides guidance (with mock fallback).
+
 ![AI chatbot](pic%20of%20project/chatbot.png)
+
+---
+
+### 🌿 Gemini Plant Disease Scanner
+Upload plant images to detect diseases using Gemini AI (with offline-safe mock mode).
+
 ![Gemini plant scanner](pic%20of%20project/geminiapiplantscanner.png)
+
+---
+
+### 📈 Market Price Insights
+Live (or mocked) agricultural market prices integrated using Alpha Vantage.
+
 ![Market insights](pic%20of%20project/marketapivalue.png)
+
+---
+
+### 🌍 Sinhala Language Interface
+Localized Sinhala UI for better accessibility for local farmers.
+
 ![Sinhala view](pic%20of%20project/sinhalafront.png)
+
+---
 
 ## Features
 - JWT auth with roles (farmer/admin)
