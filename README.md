@@ -1,7 +1,7 @@
 # Plantation Management System
 
 AI-assisted farm management with FastAPI, static React frontend, and Gemini-powered disease detection/chatbot. Includes weather, market prices, and offline-friendly fallbacks.
-
+ 
 ## Screenshots
 
 ### 🏠 Home Dashboard
